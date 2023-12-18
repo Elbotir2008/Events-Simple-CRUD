@@ -1,0 +1,52 @@
+{
+  "event-cards": [
+    {
+      "id": 1,
+      "name": "Semana Awake",
+      "date": "17/05/23 • Quarta-feira • 20:30",
+      "map": "Av Arquiteto Nildo Ribeiro, 387 Vila Marumby • Maringa/PR",
+      "img": "./Image 1.svg"
+    },
+    {
+      "id": 3,
+      "name": "Noite de Adoração",
+      "date": "17/05/23 • Quarta-feira • 20:30",
+      "map": "Av Arquiteto Nildo Ribeiro, 387 Vila Marumby • Maringa/PR",
+      "img": "./Image 3.svg"
+    },
+    {
+      "id": 4,
+      "name": "Conf de Líderes YSHV",
+      "date": "17/05/23 • Quarta-feira • 20:30",
+      "map": "Av Arquiteto Nildo Ribeiro, 387 Vila Marumby • Maringa/PR",
+      "img": "./Image 1.svg"
+    },
+    {
+      "id": 5,
+      "name": "Conf de Líderes YSHV",
+      "date": "17/05/23 • Quarta-feira • 20:30",
+      "map": "Av Arquiteto Nildo Ribeiro, 387 Vila Marumby • Maringa/PR",
+      "img": "./Image 2.svg"
+    },
+    {
+      "map": "23werfdd",
+      "id": 8
+    },
+    {
+      "map": "23rfeddrewqw2",
+      "id": 9
+    },
+    {
+      "map": [
+        "dasfg"
+      ],
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    }
+  ]
+}
